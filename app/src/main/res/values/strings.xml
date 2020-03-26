@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationDrawerSimple</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="main">This is the main content</string>
+
+</resources>
